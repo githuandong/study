@@ -174,6 +174,10 @@
 
 
 ### Material 组件
+  
+  - **MaterialApp** 应用程序根组件。
+
+  - **Scaffold** 页面脚手架，提供appBar、body等内容
 
   - **Card** 带圆角和阴影的盒子
 
